@@ -1,6 +1,7 @@
 # Tascal
 **The Task &amp; Event Scheduler! :ballot_box_with_check: :calendar:**
-For some, a To-Do list works.. For some, a calendar works.. For others, there's a tool to do it all!
+
+For some, a To-Do list works.. For some, a calendar works.. For others, there's a tool to do it all! 
 
 ### Welcome to Tascal!
 Tascal is a place for where creatives and productivity gurus fill the void they never knew they had. 
