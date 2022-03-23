@@ -9,13 +9,10 @@ With Tascal, we offer new ways to connect and extract the most from your service
 The concept is simple yet effective, we focus on two things:
 
 ## Tasks
----
 **Plan that extra 1% in you everyday**
 
 ## Events
----
 **Don't forget where you need to be**
 
 ## Services
----
 **Get the most out of *your* things**
